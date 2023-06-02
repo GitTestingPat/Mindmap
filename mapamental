@@ -1,0 +1,43 @@
+# Urban Scooter
+## Proceso de Pedido
+   ### Recolección de información del usuario
+   #### Ingreso de datos correctos: Procede a la confirmación del pedido
+   #### Ingreso de datos incorrectos: Muestra el mensaje de error y pide la corrección de los datos
+   ### Selección de detalles de alquiler
+   ### Confirmación y número de pedido
+   ### Validación de entrada
+   #### Datos correctos: Genera el número de pedido y muestra la confirmación
+   #### Datos incorrectos: Muestra el mensaje de error y pide la corrección de los datos
+   ### Gestión de errores y mensajes
+## Proceso de Estado de Pedido
+   ### Verificación del número de pedido
+   #### Número de pedido correcto: Muestra el estado del pedido
+   #### Número de pedido incorrecto: Muestra el mensaje de error "No existe tal pedido. ¿Seguro que ese es el número correcto?"
+   ### Visualización del estado del pedido
+   ### Gestión de errores y mensajes
+## Cancelación de pedido
+   ### Interacción con el diálogo de cancelación
+   #### Confirmación de cancelación: Actualiza el estado del pedido a "Cancelado"
+   #### Rechazo de cancelación: Mantiene el estado actual del pedido
+   ### Confirmación de cancelación y actualización del estado del pedido
+## Pedido atrasado
+   ### Manejo de entregas tardías y actualización del estado del pedido
+   ### Visualización del estado del pedido y mensajes destacados
+## Aceptación de cookies
+   ### Manejo de la interacción del usuario con el botón de cookies
+# Urban Scooter
+## Página de inicio
+   ### Título y dibujo de un scooter
+   ### Descripción del producto
+   ### Botón de "Pedido"
+   ### Botón de "Estado del pedido"
+   ### Botón de "Aceptar cookies"
+## Página de características
+   ### Descripción detallada del scooter
+## Página de cómo funciona
+   ### Explicación paso a paso del proceso de alquiler
+## Página de Preguntas Frecuentes (FAQ)
+   ### Información sobre costo, pago, duración de alquiler, etc.
+## Página de Linea de tiempo de Alquiler
+   ### Visualización de los pasos del proceso de alquiler
+
